@@ -1,0 +1,10 @@
+body {
+	font-family: system-ui, sans-serif;
+	font-size: 16pt;
+	top: 0;
+	left: 0;
+}
+
+* {
+	box-sizing: border-box;
+}
